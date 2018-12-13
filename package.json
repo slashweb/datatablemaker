@@ -1,0 +1,19 @@
+{
+  "name": "datatablemaker",
+  "version": "1.0.0",
+  "description": "DataTables del lado del servidor",
+  "main": "bin/DataTableQuery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slashweb/datatablemaker.git"
+  },
+  "author": "SlashWeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slashweb/datatablemaker/issues"
+  },
+  "homepage": "https://github.com/slashweb/datatablemaker#readme"
+}
