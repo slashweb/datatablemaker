@@ -1,6 +1,4 @@
-'use strict'
-
-export class DataTableMaker {
+module.exports = class DataTableMaker {
   constructor(searchable = '', sortable = '-id', instance, populateInstances = '', populateFields = '') {
     this.searchable = searchable;
     this.sortable = sortable;
